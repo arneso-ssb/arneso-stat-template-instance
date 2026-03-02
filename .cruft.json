@@ -1,0 +1,17 @@
+{
+  "template": "https://github.com/statisticsnorway/ssb-project-template-stat.git",
+  "commit": "aa546efaeeff5c1f59eefe0eae144ced99117fa9",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Arne Sørli",
+      "email": "arne.sorli@ssb.no",
+      "project_name": "arneso-stat-template-instance",
+      "description": "Vår statistikk er om X, og gjennomføres 1 gang i året",
+      "license_year": "2026",
+      "_template": "https://github.com/statisticsnorway/ssb-project-template-stat.git",
+      "_commit": "aa546efaeeff5c1f59eefe0eae144ced99117fa9"
+    }
+  },
+  "directory": null
+}
