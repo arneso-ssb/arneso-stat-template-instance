@@ -1,6 +1,8 @@
 # arneso-stat-template-instance
 
-Vår statistikk er om X, og gjennomføres 1 gang i året
+This is a test instance for testing the
+[ssb-project-template-stat](https://github.com/statisticsnorway/ssb-project-template-stat)
+repo.
 
 Opprettet av:
 Arne Sørli <arne.sorli@ssb.no>
