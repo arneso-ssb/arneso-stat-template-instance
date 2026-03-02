@@ -23,14 +23,12 @@ import os
 
 import pandas as pd
 
-
 # %% [markdown]
 # ### Demo av importer fra produksjonsnivå
 
 # %%
 # Do local imports here
 from functions.fizzbuzz import fizzbuzz
-
 
 # %%
 # Example local function import
